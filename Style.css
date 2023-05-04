@@ -171,7 +171,7 @@ button {
     width: 100%;
     height: 100%;
     text-align: center;
-    background: #FDF8E6;
+    background: #f1f3f9;
     transform: rotateY(180deg) rotateZ(50deg);
 }
 
@@ -181,9 +181,9 @@ button {
     left: 50%;
     transform: translate(-50%, -50%);
     font-size: 21pt;
-    color: #282A3A;
+    color: #1d1e20;
 }
 
 .highlight {
-    color: #6f00fc;
+    color: #8f96a3;
 }
